@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning Dart and Flutter
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me ...
+- 📫 How to reach me: lesleythuto.johnson@gmail.com
 
 <!---
 JoniJohn/JoniJohn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
