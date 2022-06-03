@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JoniJohn
+- 👋 Hi, I’m Lesley Thuto Johnson
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning Dart and Flutter
 - 💞️ I’m looking to collaborate on anything
